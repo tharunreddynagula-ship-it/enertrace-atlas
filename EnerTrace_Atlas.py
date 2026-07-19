@@ -25,7 +25,7 @@ from utils import (
 # =========================================================
 
 st.set_page_config(
-    page_title="Global Energy Transition Analytics",
+    page_title="EnerTrace Atlas | Global Energy Transition Intelligence",
     page_icon="🌍",
     layout="wide",
     initial_sidebar_state="expanded",
@@ -262,13 +262,12 @@ html, body {{
 
     <div class="content">
         <div class="eyebrow">
-            Global Clean-Energy Intelligence
-        </div>
+    Global Energy Transition Intelligence
+</div>
 
-        <div class="title">
-            Global Energy<br>
-            <span class="accent">Transition Analytics</span>
-        </div>
+<div class="title">
+    EnerTrace <span class="accent">Atlas</span>
+</div>
 
         <div class="subtitle">
             Who is leading, who is falling behind, and why?
