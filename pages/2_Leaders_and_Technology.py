@@ -109,8 +109,8 @@ with ranking_tab:
 
     top_n = st.slider(
         "Number of countries to display",
-        min_value=10,
-        max_value=30,
+        min_value=5,
+        max_value=20,
         value=15,
         step=5,
         key="leader_top_n",
