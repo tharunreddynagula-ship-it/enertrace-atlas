@@ -325,7 +325,7 @@ with overview_tab:
     st.subheader("Executive Overview")
     st.caption(
         "A curated summary of the strongest findings from the "
-        "11-question analysis notebook."
+         analysis."
     )
 
     k1, k2, k3, k4 = st.columns(4)
