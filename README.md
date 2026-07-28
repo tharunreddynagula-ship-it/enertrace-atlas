@@ -207,24 +207,6 @@ Each question is supported by interactive Plotly visualizations and written anal
 
 ---
 
-# 📁 Project Structure
-
-```
-EnerTrace-Atlas/
-│
-├── app.py
-├── utils.py
-├── requirements.txt
-├── data/
-├── pages/
-├── images/
-├── notebook/
-├── presentation/
-└── README.md
-```
-
----
-
 # 💡 Key Findings
 
 The analysis reveals several important insights:
